@@ -27,8 +27,8 @@ Installation Steps:
 6. In the root directory of your project, modify the .env file with your database credentials
 7. open command prompt and navigate to the root directory of your project and execute the following commands.
 
->>>composer update
->>>php artisan serve
+              1. composer update
+              2. php artisan serve
 
 8. Now navigate to 127.0.0.1:8000 to load the project
 
